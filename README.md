@@ -1,0 +1,1 @@
+In this task, we began by building an Entity-Relationship Diagram (ERD) using Data Definition Language (DDL) to represent the database schema. Subsequently, we leveraged this schema to create and manipulate data using SQL queries. In particular, we utilized views to simplify complex queries, making it easier to retrieve specific information from the database.
