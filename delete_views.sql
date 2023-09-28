@@ -1,0 +1,13 @@
+drop view symbolVSyield;
+drop view lastPrice;
+drop view firstPrice;
+drop view firstValue;
+drop view lastValue;
+drop view companies_that_glow;
+drop view sector_with_glow;
+drop view improve_companies;
+drop view not_improve_companies;
+drop view max_stocks_company_by_country;
+drop view max_stocks_by_country;
+drop view high_stocks;
+drop view industrial_countries;
